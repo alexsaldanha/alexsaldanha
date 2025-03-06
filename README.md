@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, eu sou Alex Saldanha</h1>
 <h3 align="center">Apaixonado por Tecnologia da Informacao e Programacao</h3>
 
-- Atualmente estou estudando a linguagem **Java**
+- Atualmente estou estudando a linguagem **Pascal**
 
-- 🌱 Atualmente estou aprendendo **Java**
+- 🌱 Atualmente estou aprendendo **Delphi / Pascal**
 
-- 💬 Pergunte-me sobre **Java**
+- 💬 Pergunte-me sobre **Delphi**
 
 - 📫 Como me encontrar **alex.asaldanha@gmail.com**
 
