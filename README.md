@@ -7,7 +7,7 @@
 
 - 💬 Pergunte-me sobre **Delphi**
 
-- 📫 Como me encontrar **alex.asaldanha@gmail.com**
+- 📫 Como me encontrar **alex.asaldanha@gmail.com // (11)91255-9487**
 
 - 📄 Conheça minhas experiências [https://www.linkedin.com/in/alex-saldanha-6292a7211/](https://www.linkedin.com/in/alex-saldanha-6292a7211/)
 
