@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Alex Saldanha</h1>
-<h3 align="center">Apaixonado por Tecnologia da Informacao e Programacao</h3>
+<h3 align="center">Apaixonado por Tecnologia da Informação e Programação</h3>
 
 - Atualmente estou estudando a linguagem **Pascal**
 
@@ -25,7 +25,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
     <a href="https://www.embarcadero.com/br/products/delphi" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Embarcadero_Delphi_logo.svg" alt="delphi" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Embarcadero_Delphi_logo.svg" alt="delphi" width="40" height="40"/>
     </a>
 </p>
 
